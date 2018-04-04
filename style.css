@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	width: 970px;
+	margin: 0 auto;
+}
+
+.item{
+	width: 174px;
+	height: 174px;
+	float: left;
+	margin: 10px;
+	text-align: center;
+	line-height: 174px;
+	font-size: 3em;
+	background-color: grey;
+}
